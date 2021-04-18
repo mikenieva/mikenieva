@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋
 
 <!--
 **mikenieva/mikenieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Mi nombre es Mike Nieva.
+
+Puedes encontrar más de mí sobre en www.mikenieva.com
