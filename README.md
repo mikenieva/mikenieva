@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 Mi nombre es Mike Nieva.
 
-Puedes encontrar más de mí sobre en www.mikenieva.com
+Puedes encontrar más de mí en www.mikenieva.com
