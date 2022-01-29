@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [mikenieva.com/portafolio](mikenieva.com/portafolio)
-
 - 📝 I regularly create guided projects on [https://www.coursera.org/instructor/mikenieva](https://www.coursera.org/instructor/mikenieva)
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **m@mikenieva.com**
+- 📫 How to reach me **m@nieva.team**
 
 - 📄 Know about my experiences [https://linkedin.com/in/mikenieva](https://linkedin.com/in/mikenieva)
 
