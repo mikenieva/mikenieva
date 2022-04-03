@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike Nieva</h1>
 <h3 align="center">JavaScript Engineer from Mexico 🇲🇽</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikenieva" alt="mikenieva" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mikenieva" target="blank"><img src="https://img.shields.io/twitter/follow/mikenieva?logo=twitter&style=for-the-badge" alt="mikenieva" /></a> </p>
 
 - 🔭 I’m currently working on [MIKENIEVA.COM](https://mikenieva.com)
