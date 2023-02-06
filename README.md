@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/mikenieva" target="blank"><img src="https://img.shields.io/twitter/follow/mikenieva?logo=twitter&style=for-the-badge" alt="mikenieva" /></a> </p>
 
-- 🔭 I’m currently working on [MIKENIEVA.COM](https://mikenieva.com)
-
-- 🌱 I’m currently learning **Next.js**
-
 - 📝 I regularly create guided projects on [https://www.coursera.org/instructor/mikenieva](https://www.coursera.org/instructor/mikenieva)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript, TypeScript and NextJS**
 
-- 📫 How to reach me **m@mikenieva.com**
+- 📫 How to reach me **m@nieva.team**
 
 - 📄 Know about my experiences [https://linkedin.com/in/mikenieva](https://linkedin.com/in/mikenieva)
 
