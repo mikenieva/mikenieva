@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript and NextJS**
 
-- 📫 How to reach me **m@nieva.team**
+- 📫 How to reach me **m@mikenieva.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/mikenieva](https://linkedin.com/in/mikenieva)
 
