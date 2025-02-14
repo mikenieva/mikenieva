@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/mikenieva" target="blank"><img src="https://img.shields.io/twitter/follow/mikenieva?logo=twitter&style=for-the-badge" alt="mikenieva" /></a> </p>
 
+- I have a learning platform for building fullstack web projects: [NIEVA Team](https://nieva.team)
+
 - 📝 I regularly create guided projects on [https://www.coursera.org/instructor/mikenieva](https://www.coursera.org/instructor/mikenieva)
 
 - 💬 Ask me about **JavaScript, TypeScript and NextJS**
